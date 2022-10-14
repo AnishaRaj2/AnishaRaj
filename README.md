@@ -1,4 +1,4 @@
-# Hi there 👋, my name is AnishaRaj.
+# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, my name is AnishaRaj.
 🌱 I’m currently learning to programme as a Full-Stack Developer
 
 <h3 align="left">Languages and Tools:</h3>
